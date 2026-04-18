@@ -61,7 +61,7 @@ python snake.py
 
 # Preview📸 
 
-
+![demo](snake-pythonn.gif)
 
 # Final Thoughts
 
