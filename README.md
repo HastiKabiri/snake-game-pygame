@@ -1,16 +1,17 @@
 # 🐍 Snake Game — Built with Python & Pygame
 
----
+
+
 # Overview
 
 A fully functional Snake game built from scratch using Pygame.
 This project is less about just building a game and more about mastering the logic behind it — movement, collisions, and real-time updates.🎮
----
+
 # Tech Stack
 Python
 Pygame
 Random / Time modules
----
+
 # Features
 🎯 Dynamic snake movement
 🍎 Random fruit generation
@@ -19,13 +20,13 @@ Random / Time modules
 ⏱️ Real-time game loop
 🧾 Game over screen
 🎹 Controls
----
+
 # Key	Action
 ⬆️	Move Up
 ⬇️	Move Down
 ⬅️	Move Left
 ➡️	Move Right
----
+
 # How It Works (Behind the Scenes)
 The snake is stored as a list of coordinates
 Each frame:
@@ -57,7 +58,7 @@ cd snake-game
 pip install pygame
 3. Run the game
 python snake.py
----
+
 # Preview📸 
 
 
