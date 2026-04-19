@@ -21,13 +21,13 @@ Random / Time modules
 🧾 Game over screen
 🎹 Controls
 
-# Key	Action
+# Key Action
 ⬆️	Move Up
 ⬇️	Move Down
 ⬅️	Move Left
 ➡️	Move Right
 
-# How It Works (Behind the Scenes)
+# How It Works (Behind the Scenes🫡)
 The snake is stored as a list of coordinates
 Each frame:
 A new head is added based on direction
